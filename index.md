@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="180" alt="Tendril Care Logo">
+</p>
+
 # 🌿 Tendril Care
 **Understand. Care. Thrive.**
 
