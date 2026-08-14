@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="580" alt="Tendril Care Logo">
+  <img src="logo.png" width="680" alt="Tendril Care Logo">
 </p>
 
 [![Version](https://img.shields.io/badge/Release-v1.9.8-1B3022?style=for-the-badge)](https://play.google.com/store/apps/details?id=com.tendrilcare.app)
