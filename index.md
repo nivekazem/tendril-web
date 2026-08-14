@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="280" alt="Tendril Care Logo">
+  <img src="logo.png" width="580" alt="Tendril Care Logo">
 </p>
 
 # 🌿 Tendril Care
