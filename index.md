@@ -2,9 +2,6 @@
   <img src="logo.png" width="580" alt="Tendril Care Logo">
 </p>
 
-# 🌿 Tendril Care
-**Understand. Care. Thrive.**
-
 [![Version](https://img.shields.io/badge/Release-v1.9.8-1B3022?style=for-the-badge)](https://play.google.com/store/apps/details?id=com.tendrilcare.app)
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)](https://play.google.com/store/apps/details?id=com.tendrilcare.app)
 
